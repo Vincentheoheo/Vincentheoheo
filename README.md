@@ -1,1 +1,1 @@
-<strong style="color: blue;"> my name is Dang Khoa Ngo</strong>
+<strong style="color: blue;">Dang Khoa Ngo</strong>
